@@ -19,7 +19,7 @@ h1{
 }
 .top-banner{
     background-repeat: no-repeat;
-    background-image: url("header-bg.png");
+    background-image: url("images/header-bg.png");
 }
 section{
     height: 500px;
@@ -47,12 +47,12 @@ h2{
     padding-left: 3%;
 }
 .biography-area{
-    background-image: url("biography-bg.png");
+    background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
 .work-area{
-    background-image: url("latest-work-bg.png");
+    background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
