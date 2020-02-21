@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Poppins';
+}
+h1{
+    font-size: 50px;
+}
+.purple-highlight{
+    color:purple;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.half-width img{
+    width: 90%;
+}
+.top-banner{
+    background-repeat: no-repeat;
+    background-image: url("header-bg.png");
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,purple);
+    background-color:purple;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+h2{
+    font-size: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.biography-area{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.work-area{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width img{
+     width: 60%;
+    float: left;
+}
+.half-width img{
+    width: 60%;
+    float: left;
+}
+.alu img{
+    width: 30%;
+    float: left;
+}
+.lin-button{
+    text-decoration: none;
+    
+    background-color:purple;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 70%;
+}
